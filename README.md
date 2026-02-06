@@ -1,1 +1,1 @@
-# infra-case-studies
+# infrastructure-architecture-cases
